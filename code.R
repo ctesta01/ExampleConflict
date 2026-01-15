@@ -2,4 +2,6 @@
 
 # This is my demonstration code 
 
-print("hello")
+print("it's a wonderful day!")
+
+print("hello class!")
