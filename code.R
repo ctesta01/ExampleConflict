@@ -2,4 +2,5 @@
 
 # This is my demonstration code 
 
-print("hello")
+print("bonjour")
+print("toujours en français, Christian")
